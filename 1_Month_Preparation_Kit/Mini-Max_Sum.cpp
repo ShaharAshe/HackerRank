@@ -2,23 +2,29 @@
 #include <cstdlib>
 #include <vector>
 #include <string>
-#include <algorithm>
 
 
 void miniMaxSum(std::vector<int> arr) {
-    std::sort(arr.begin(), arr.end());
-    long int min_v = 0,
-             max_v = 0;
+    size_t sum_v = 0,
+             max_v = arr[0],
+             min_v = arr[0];
     
-    for(size_t i = 0; i<4; ++i)
+    for(const auto& x:arr)
     {
-        min_v += arr[i];
-        max_v += arr[((arr.size()-1)-i)];
+        sum_v += x;
+        if(max_v<x)
+        {
+            max_v = x;
+        }
+        if(x<min_v)
+        {
+            min_v = x;
+        }
     }
     
-    std::cout << std::to_string(min_v);
+    std::cout << std::to_string(sum_v-max_v);
     std::cout << " ";
-    std::cout << std::to_string(max_v) << std::endl;
+    std::cout << std::to_string(sum_v-min_v) << std::endl;
 }
 
 
