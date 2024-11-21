@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <vector>
 
+
 void miniMaxSum(std::vector<int> arr) {
     int min_v = arr[0],
         max_v = arr[0];
@@ -19,6 +20,7 @@ void miniMaxSum(std::vector<int> arr) {
     
     std::cout << (sum_v-max_v) << " " << (sum_v-min_v) << std::endl;
 }
+
 
 int main()
 {

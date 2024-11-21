@@ -3,6 +3,7 @@
 #include <vector>
 #include <unordered_map>
 
+
 void plusMinus(std::vector<int> arr) {
     std::unordered_map<char, size_t> count_vals =
     {
@@ -25,6 +26,7 @@ void plusMinus(std::vector<int> arr) {
     std::cout << (arr_len?count_vals['n']/arr_len:0) << std::endl;
     std::cout << (arr_len?count_vals['z']/arr_len:0) << std::endl;
 }
+
 
 int main()
 {
