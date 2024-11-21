@@ -11,5 +11,5 @@
         2. [Mini-Max Sum](./1_Week_Preparation_Kit/Day1/Mini-Max_Sum.cpp)
         3. [Time Conversion](./1_Week_Preparation_Kit/Day1/Time_Conversion.cpp)
         - [Mock Test](./1_Week_Preparation_Kit/Day1/Mock_Test/)
-            * [Find the Median](./1_Week_Preparation_Kit/Day1/Mock_Test/Find_the_Median.cpp)
+            * [Find the Median](./1_Week_Preparation_Kit/Day1/Mock_Test/Mock_Test-Find_the_Median.cpp)
             * [Report](./1_Week_Preparation_Kit/Day1/Mock_Test/Report_shaharas30-Mock_Test-Find_the_Median.pdf)
