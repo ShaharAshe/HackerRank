@@ -21,6 +21,7 @@
 >>> - [Day 2](./1_Week_Preparation_Kit/Day2/) :
 >>>> 1. [Lonely Integer](./1_Week_Preparation_Kit/Day2/Lonely_Integer.cpp)
 >>>> 2. [Diagonal Difference](./1_Week_Preparation_Kit/Day2/Diagonal_Difference.cpp)
+>>>> 3. [Counting Sort 1](./1_Week_Preparation_Kit/Day2/Counting_Sort_1.cpp)
 >>>
 >>
 >> ---
