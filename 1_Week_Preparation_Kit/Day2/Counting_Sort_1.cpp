@@ -17,8 +17,7 @@ std::vector<int> countingSort(std::vector<int> arr) {
     return count_vals;
 }
 
-int main()
-{
+int main() {
     std::vector<int> arr = {1,1,3,2,1};
     auto res = countingSort(arr);
     
