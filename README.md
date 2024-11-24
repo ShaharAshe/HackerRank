@@ -29,6 +29,7 @@
 >> ---
 >>
 >>> - [Day 3](./1_Week_Preparation_Kit/Day3/) :
+>>>> 1. [Zig Zag Sequence](./1_Week_Preparation_Kit/Day3/Zig_Zag_Sequence.cpp)
 >>
 >> ---
 >>
