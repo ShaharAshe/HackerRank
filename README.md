@@ -32,6 +32,13 @@
 >>>> 1. [Zig Zag Sequence](./1_Week_Preparation_Kit/Day3/Zig_Zag_Sequence.cpp)
 >>>> 2. [Tower Breakers](./1_Week_Preparation_Kit/Day3/Tower_Breakers.cpp)
 >>>> 3. [Caesar Cipher](./1_Week_Preparation_Kit/Day3/Caesar_Cipher.cpp)
+>>>>> - [Mock Test](./1_Week_Preparation_Kit/Day3/Mock_Test/) :
+>>>>>> * [Palindrome Index](./1_Week_Preparation_Kit/Day3/Mock_Test/Mock_Test-Palindrome_Index.cpp)
+>>>>>> * [Report](./1_Week_Preparation_Kit/Day3/Mock_Test/Report_shaharas30-Mock_Test-Palindrome_Index.pdf)
+>>
+>> ---
+>>
+>>> - [Day 4](./1_Week_Preparation_Kit/Day4/) :
 >>
 >> ---
 >>
