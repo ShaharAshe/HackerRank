@@ -44,6 +44,8 @@
 >> - [Day 4](./1_Week_Preparation_Kit/Day4/) :
 >>> 1. [Grid Challenge](./1_Week_Preparation_Kit/Day4/Grid_Challenge.cpp)
 >>> 2. [Recursive Digit Sum](./1_Week_Preparation_Kit/Day4/Recursive_Digit_Sum.cpp)
+>>> 3. [New Year Chaos](./1_Week_Preparation_Kit/Day4/New_Year_Chaos.cpp)
+>>
 >
 ---
 >
