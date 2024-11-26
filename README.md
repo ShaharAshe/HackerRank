@@ -39,6 +39,7 @@
 >> ---
 >>
 >>> - [Day 4](./1_Week_Preparation_Kit/Day4/) :
+>>>> 1. [Grid Challenge](./1_Week_Preparation_Kit/Day4/Grid_Challenge.cpp)
 >>
 >> ---
 >>
