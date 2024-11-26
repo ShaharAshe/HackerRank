@@ -5,7 +5,7 @@
 >> 3. [Time Conversion](./1_Month_Preparation_Kit/Time_Conversion.cpp)
 >> 4. [Sparse Arrays](./1_Month_Preparation_Kit/Sparse_Arrays.cpp)
 >
-> ---
+---
 >
 > - [1 Week Preparation Kit](./1_Week_Preparation_Kit/)
 >> - [Day 1](./1_Week_Preparation_Kit/Day1/) :
@@ -45,5 +45,5 @@
 >>> 1. [Grid Challenge](./1_Week_Preparation_Kit/Day4/Grid_Challenge.cpp)
 >>> 2. [Recursive Digit Sum](./1_Week_Preparation_Kit/Day4/Recursive_Digit_Sum.cpp)
 >
-> ---
+---
 >
