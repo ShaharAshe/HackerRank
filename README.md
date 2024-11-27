@@ -45,6 +45,22 @@
 >>> 1. [Grid Challenge](./1_Week_Preparation_Kit/Day4/Grid_Challenge.cpp)
 >>> 2. [Recursive Digit Sum](./1_Week_Preparation_Kit/Day4/Recursive_Digit_Sum.cpp)
 >>> 3. [New Year Chaos](./1_Week_Preparation_Kit/Day4/New_Year_Chaos.cpp)
+>>>> - [Mock Test](./1_Week_Preparation_Kit/Day4/Mock_Test/) :
+>>>>> * [Truck Tour](./1_Week_Preparation_Kit/Day4/Mock_Test/Mock_Test-Truck_Tour.cpp)
+>>>>> * [Report](./1_Week_Preparation_Kit/Day4/Mock_Test/Report_shaharas30-Mock_Test-Truck_Tour.pdf)
+>>>>
+>>>
+>>
+>
+>> - [Day 5](./1_Week_Preparation_Kit/Day5/) :
+>>> 1. []()
+>>> 2. []()
+>>> 3. []()
+>>>> - [Mock Test](./1_Week_Preparation_Kit/Day5/Mock_Test/) :
+>>>>> * []()
+>>>>> * [Report]()
+>>>>
+>>>
 >>
 >
 ---
